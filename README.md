@@ -2,7 +2,7 @@
 
 This repository contains implementations of various explainable AI techniques applied to text, image, and tabular data. The notebooks explore feature attributions, sensitivity analysis, and model explanation tools to enhance the transparency and understanding of machine learning models.
 
-Model Explanation Techniques
+**Model Explanation Techniques**
 
 - `deep_explainer.ipynb`  
   SHAP DeepExplainer applied to neural networks for feature attribution.
@@ -17,7 +17,7 @@ Model Explanation Techniques
 - `PDP.ipynb`  
   Partial Dependence Plots (PDPs) for interpreting feature impact.
 
-Image Explanations
+**Image Explanations**
 
 - `GRAD_CAM.ipynb`  
   Grad-CAM visualizations for CNNs on image data.
@@ -26,7 +26,7 @@ Image Explanations
 - `EDA_on_Images.ipynb`  
   Exploratory analysis on image datasets before explanation.
 
-  Text and Tabular Explanations with LIME
+**Text and Tabular Explanations with LIME**
 
 - `Lime_Titanic.ipynb`  
   LIME explanations on the Titanic survival prediction (tabular data).
@@ -35,12 +35,12 @@ Image Explanations
 - `Lime_for_Text.ipynb`  
   LIME for text classification model interpretability.
 
-Exploratory Data Analysis
+**Exploratory Data Analysis**
 
 - `EDA_on_IMDB.ipynb`  
   EDA on the IMDB text dataset for sentiment classification.
 
-TCAV (Testing with Concept Activation Vectors)
+**TCAV (Testing with Concept Activation Vectors)**
 
 - `TCAV1.ipynb`  
   Introduction and setup for TCAV.
@@ -49,7 +49,7 @@ TCAV (Testing with Concept Activation Vectors)
 - `TCAV3.ipynb`  
   Advanced TCAV workflows for interpretability.
 
-Tools & Libraries
+**Tools & Libraries**
 
 - SHAP
 - LIME
